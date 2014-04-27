@@ -8469,6 +8469,7 @@
 <carrier>Hot Mobile Ltd</carrier>
 <carrier>Hot Mobile</carrier>
 <carrier>Mirs Ltd</carrier>
+<apn mmsc="http://mms.hotmobile.co.il" mmsproxy="80.246.131.99" mmsport="80" name="mms" />
 </a>
 <a mcc="425" mnc="4" iso="IL" >
 <carrier>Globalsim Ltd</carrier>
@@ -8517,6 +8518,8 @@
 <a mcc="425" mnc="8" iso="IL" >
 <carrier>Golan Telecom</carrier>
 <carrier>Golan Telecom Ltd</carrier>
+<apn mmsc="http://mmsc.golantelecom.co.il" mmsproxy="10.224.228.81" mmsport="80" name="GolanMMS" />
+
 </a>
 <a mcc="425" mnc="11" iso="IL" >
 <carrier>365 Telecom (MVNO)</carrier>
